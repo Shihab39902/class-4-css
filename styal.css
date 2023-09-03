@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    background-color: orange;
+ font-size: 50px;
+width: 300px;
+height:90;
+text-align:center ;
+text-decoration:underline;
+}
+
+h3{
+  text-decoration-style:wavy ;  
+  text-decoration-color: chartreuse;
+}
+
+p{
+    font-size:19px ;
+text-align :justify;
+text-align-last: center;
+line-height:;
+}
